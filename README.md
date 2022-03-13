@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/813407969425227808)](https://discord.com/users/813407969425227808)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/537084058774011905)](https://discord.com/users/537084058774011905)  
 
 </div>
 
@@ -17,3 +17,21 @@
 <a href="https://discord.gg/3k5aPZhdxR" target"blank_"><img src="https://img.shields.io/discord/813407969425227808?style=for-the-badge&color=7289da&label=osderda&logo=node.js&logoColor=white"></a>
 <br>
 </p>
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=osderda&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osderda&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=osderda&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+</details>
