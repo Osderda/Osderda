@@ -1,12 +1,11 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Osderda 👋</h2>
 
 <div align="center">
-My Discord Accounts>>
+My Discord Account>>
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/537084058774011905?hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/537084058774011905)
-  T
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/918842922349240351?hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/918842922349240351)  
+  
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">5 Years Software Developer</h2>
 </div>
 <div align="center">
