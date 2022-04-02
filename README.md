@@ -35,14 +35,14 @@ Windows/Android Application Developer.
 </p>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+  <summary style="font-weight: bold; font-size: 20px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=osderda&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osderda&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=osderda&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
 <details align="center">
-  <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
+  <summary style="font-weight: bold; font-size: 20px">My Interests</summary>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -50,5 +50,6 @@ Windows/Android Application Developer.
    <code><img height="30" src="https://yalcin.pvp9.net/uploads/cpluspluslogo.png"></code>
  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png"></code>
+   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/66px-Adobe_Premiere_Pro_CC_icon.svg.png"></code>
 </details>
