@@ -18,7 +18,7 @@ Windows/Android Application Developer.
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">LVL 6/10</code>
    <code><img height="30" src="https://yalcin.pvp9.net/uploads/javalogo.png">LVL 3/10</code>
    <code><img height="30" src="https://yalcin.pvp9.net/uploads/cpluspluslogo.png">LVL 6/10</code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">LVL 6/10</code>
+ <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">LVL 5/10</code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">LVL 10/10</code>
 
 </div>
